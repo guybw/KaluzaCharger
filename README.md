@@ -1,5 +1,7 @@
-# KaluzaCharger
+# Kaluza Charger
 A simple Home Assistant Integration for the Kaluza charged supplied by ChargedEV
+
+# NOTE - I gave up working on this so it doesn't work!
 
 This integration connects to https://cev.kaluza.com which actually connects to https://maestro.vcharge.io
 
